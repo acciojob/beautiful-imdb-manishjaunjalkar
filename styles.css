@@ -1,2 +1,13 @@
-
+img{
+height:100px;
+width:100px;
+opacity:0.7;
+}
+p{
+position: absolute;
+top:50vh;
+width:100vh;
+text-align:justify;
+font-size:20px;
+}
 /* Your CSS Code here. */
